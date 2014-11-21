@@ -1,0 +1,25 @@
+Partlist
+
+Exported from XCVR.sch at 11/21/14 6:48 AM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                   Device                  Package                 Library             Sheet
+
+ANT1                             ANTENNA                 PAD-01                  discrete            1
+ANT2                             ANTENNA                 PAD-01                  discrete            1
+C1                               CPOL-USE2,5-6E          E2,5-6E                 rcl                 1
+IC1      NE555                   NE555                   DIL-08                  st-microelectronics 1
+IC2      LM336LP                 LM336LP                 TO92                    linear              1
+IC3      INA118U                 INA118U                 SO08                    burr-brown          1
+JP1                              M03PTH                  1X03                    SparkFun-Connectors 1
+JP2                              M03PTH                  1X03                    SparkFun-Connectors 1
+R1                               R-US_0204/5             0204/5                  rcl                 1
+R2                               R-US_0204/5             0204/5                  rcl                 1
+R3                               R-US_0204/5             0204/5                  rcl                 1
+U$1      ARDUINO_PRO_MINI_LAYOUT ARDUINO_PRO_MINI_LAYOUT ARDUINO_PRO_MINI_PINOUT ArduinoProMini      1
+U1       EM406                   EM406                   EM406                   SparkFun-Connectors 1
+X1       22-23-2021              22-23-2021              22-23-2021              con-molex           1
+Z1       SRA-1                   SRA-1                   A01                     minicircuits        1
